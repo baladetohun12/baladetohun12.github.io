@@ -101,10 +101,10 @@ I'm passionate about leveraging data to drive business decisions, particularly i
 
 ## Contact
 
-📧 Email: yourname@email.com
+📧 Email: tunde.alade96@gmail.com 
 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
 💻 GitHub: [github.com/yourusername](https://github.com/yourusername)
-📍 Location: Philadelphia, PA
+
 
 **I'm currently seeking entry-level Data Analyst or Business Intelligence Analyst opportunities in the financial services industry.**
 
